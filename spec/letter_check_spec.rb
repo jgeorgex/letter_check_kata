@@ -1,5 +1,4 @@
 require './letter_check.rb'
-#reusing old files - thats why they are still named the same :-)
 
 describe 'letter count' do
   it 'output is "1/1 when "a" is the input' do
